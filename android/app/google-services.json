@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302450185351",
+    "firebase_url": "https://the-al-quran.firebaseio.com",
+    "project_id": "the-al-quran",
+    "storage_bucket": "the-al-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302450185351:android:8df8c041465d38a0d01422",
+        "android_client_info": {
+          "package_name": "com.example.al_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302450185351-aoil0d5neilu2ljqquhuqk7k55gtrtnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuA5xE-PMSKA4qG0qc_NuOkwq58p03rEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302450185351-aoil0d5neilu2ljqquhuqk7k55gtrtnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

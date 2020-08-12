@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>302450185351-09l7l8pjn958967b8jq4a03efnv9720o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.302450185351-09l7l8pjn958967b8jq4a03efnv9720o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAc_JYVNj5DDlFvgIu6wYIxwIJISuQg5F0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>302450185351</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.alquran</string>
+	<key>PROJECT_ID</key>
+	<string>the-al-quran</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-al-quran.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:302450185351:ios:3e057550640edd3cd01422</string>
+	<key>DATABASE_URL</key>
+	<string>https://the-al-quran.firebaseio.com</string>
+</dict>
+</plist>
