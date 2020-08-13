@@ -1,9 +1,16 @@
+import 'dart:async';
 import 'package:al_quran/view/homeScreen_view.dart';
 import 'package:al_quran/view/sajda_view.dart';
 import 'package:al_quran/view/surahIndex_view.dart';
-import 'package:flutter/material.dart';
 
-void main() {
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
+Future<void> main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
+
   runApp(MyApp());
 }
 

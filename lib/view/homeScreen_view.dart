@@ -256,27 +256,15 @@ class Developer extends StatelessWidget {
         height: height * 0.28,
         child: Column(
           children: <Widget>[
+            SizedBox(height: 100.0),
             Text(
-              "Developed By\n",
+              "Developed By",
               style:
                   TextStyle(fontSize: height * 0.016, color: Colors.grey[100]),
             ),
-            CircleAvatar(
-              backgroundColor: Color(0xffee8f8b),
-              maxRadius: height * 0.063,
-              child: CircleAvatar(
-                maxRadius: height * 0.06,
-                backgroundImage: AssetImage('assets/myPic.JPG'),
-              ),
-            ),
             Text(
-              "\nMuhammad Hamza",
+              "\nRaisul Islam",
               style: Theme.of(context).textTheme.bodyText1,
-            ),
-            Text(
-              "Flutter Developer",
-              style:
-                  TextStyle(fontSize: height * 0.016, color: Colors.grey[100]),
             ),
           ],
         ),
